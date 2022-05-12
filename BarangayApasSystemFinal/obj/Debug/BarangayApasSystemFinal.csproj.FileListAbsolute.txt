@@ -1,0 +1,24 @@
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.exe.config
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.exe
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.pdb
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.csprojResolveAssemblyReference.cache
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.LoginForm.resources
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.Properties.Resources.resources
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.SubmitForm.resources
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.csproj.GenerateResource.Cache
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.exe
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.pdb
+c:\users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.SearchForm.resources
+C:\Users\junfernz\documents\visual studio 2012\Projects\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.Home.resources
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.exe.config
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.exe
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.pdb
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.csprojResolveAssemblyReference.cache
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.LoginForm.resources
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.Properties.Resources.resources
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.SubmitForm.resources
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.csproj.GenerateResource.Cache
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.exe
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\BarangayApasSystemFinal.pdb
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\obj\Debug\BarangayApasSystemFinal.SearchPage.resources
+C:\Users\joyce\OneDrive\Desktop\BarangayApasSystemFinal\BarangayApasSystemFinal\bin\Debug\RESIDENTFILE.accdb
